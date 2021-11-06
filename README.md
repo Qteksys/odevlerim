@@ -1,0 +1,2 @@
+# odevlerim
+ odev kontrolu icin 
