@@ -1,0 +1,28 @@
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\Ömer Tekin\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.exe
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.deps.json
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.runtimeconfig.json
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.dll
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\bin\Debug\netcoreapp3.1\fibonacci programı.pdb
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\fibonacci programı.dll
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\fibonacci programı.pdb
+C:\Users\Ömer Tekin\source\repos\fibonacci\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

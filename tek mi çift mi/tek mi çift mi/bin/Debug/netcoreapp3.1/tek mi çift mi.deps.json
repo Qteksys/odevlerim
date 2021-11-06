@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tek mi çift mi/1.0.0": {
+        "runtime": {
+          "tek mi çift mi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tek mi çift mi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

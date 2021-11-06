@@ -1,0 +1,14 @@
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.exe
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.deps.json
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.runtimeconfig.json
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.dll
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\bin\Debug\netcoreapp3.1\tek mi çift mi.pdb
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.AssemblyInfo.cs
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.dll
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.pdb
+C:\Users\Ömer Tekin\source\repos\tek mi çift mi\tek mi çift mi\obj\Debug\netcoreapp3.1\tek mi çift mi.genruntimeconfig.cache
