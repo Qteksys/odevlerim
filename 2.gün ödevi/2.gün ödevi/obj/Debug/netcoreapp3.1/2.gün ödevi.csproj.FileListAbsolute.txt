@@ -1,0 +1,14 @@
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.exe
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.deps.json
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.runtimeconfig.json
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.runtimeconfig.dev.json
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.dll
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\bin\Debug\netcoreapp3.1\2.gün ödevi.pdb
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.AssemblyInfoInputs.cache
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.AssemblyInfo.cs
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.dll
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.pdb
+C:\Users\Ömer Tekin\source\repos\2.gün ödevi\2.gün ödevi\obj\Debug\netcoreapp3.1\2.gün ödevi.genruntimeconfig.cache
