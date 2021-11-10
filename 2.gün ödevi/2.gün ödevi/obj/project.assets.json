@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ömer Tekin\\source\\repos\\2.gün ödevi\\2.gün ödevi\\2.gün ödevi.csproj",
+      "projectUniqueName": "C:\\Users\\Ömer Tekin\\Documents\\GitHub\\odevlerim\\2.gün ödevi\\2.gün ödevi\\2.gün ödevi.csproj",
       "projectName": "2.gün ödevi",
-      "projectPath": "C:\\Users\\Ömer Tekin\\source\\repos\\2.gün ödevi\\2.gün ödevi\\2.gün ödevi.csproj",
+      "projectPath": "C:\\Users\\Ömer Tekin\\Documents\\GitHub\\odevlerim\\2.gün ödevi\\2.gün ödevi\\2.gün ödevi.csproj",
       "packagesPath": "C:\\Users\\Ömer Tekin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ömer Tekin\\source\\repos\\2.gün ödevi\\2.gün ödevi\\obj\\",
+      "outputPath": "C:\\Users\\Ömer Tekin\\Documents\\GitHub\\odevlerim\\2.gün ödevi\\2.gün ödevi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

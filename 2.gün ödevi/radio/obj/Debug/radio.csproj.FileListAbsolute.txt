@@ -1,0 +1,15 @@
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\bin\Debug\radio.exe.config
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\bin\Debug\radio.exe
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\bin\Debug\radio.pdb
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.csproj.ResolveComReference.cache
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.Form1.resources
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.Properties.Resources.resources
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.exe
+C:\Users\Ömer Tekin\Documents\GitHub\odevlerim\2.gün ödevi\radio\obj\Debug\radio.pdb
