@@ -1,0 +1,15 @@
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\bin\Debug\radiolaruygulaması.exe.config
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\bin\Debug\radiolaruygulaması.exe
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\bin\Debug\radiolaruygulaması.pdb
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.csproj.AssemblyReference.cache
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.Form1.resources
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.Properties.Resources.resources
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.csproj.GenerateResource.cache
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.exe
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.pdb
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ömer Tekin\source\repos\radiolaruygulaması\radiolaruygulaması\obj\Debug\radiolaruygulaması.csproj.ResolveComReference.cache
